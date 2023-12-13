@@ -6,6 +6,8 @@ description: >-
 
 # Overzicht
 
+:construction: **Deze sectie is nog in opbouw**
+
 ## Intake (accesioning)
 
 <table><thead><tr><th width="184">Kop</th><th>Item</th></tr></thead><tbody><tr><td>Start</td><td>Een archiefvormer neemt contact op met de Universiteitsbibliotheek voor het neerleggen van digital born materiaal.</td></tr><tr><td>Einde</td><td>Een geïdentificeerd pakket digitaal materiaal is overhandigd en wordt bewaard op een gekende, centrale plaats in de bibliotheek (fysieke drager of digitaal)</td></tr><tr><td>Beschrijving</td><td><p>Communicatie met de archiefvormer, maken van afspraken o.a.</p><ul><li>De wijze waarop het materiaal wordt overhandigd.</li><li>Klaren van rechten.</li><li>De structuur van het materiaal.</li><li>Voorzien van aanvullende metadata &#x26; contextuele informatie.</li><li>Het terug overhandigen van de fysieke drager.</li><li>Toegang tot het originele materiaal</li></ul><p>Het materiaal (1 of meerdere pakketten) krijgt een “intake nummer”.</p><p><br>Er wordt in het digitale klassement een dossier opgestart met alle relevante informatie gekoppeld aan dit “intake nummer”.<br></p><p>Er is een centraal register waarin het “intake nummer” wordt geregistreerd met basis-metadata. Er wordt een status toegekend en bijgehouden.</p></td></tr></tbody></table>
