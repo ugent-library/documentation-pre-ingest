@@ -4,11 +4,25 @@ description: Welke middelen gebruiken we om pre-ingest mogelijk te maken?
 
 # Infrastructuur
 
-## Werkstation
+## Uitrusting
+
+### Werkstation
 
 Er is een **werkstation** voorzien in de ruimte waar het team innovatie werkzaam is. Dit toestel dient **enkel** voor de transfer en het klaarmaken van digitaal materiaal voor digitale archivering.
 
 De software op het werkstation wordt beheerd door de medewerkers van team innovatie.
+
+### Write blocker
+
+:construction: **Deze sectie is nog in opbouw**
+
+### CD / DVD lezer
+
+:construction: **Deze sectie is nog in opbouw**
+
+### Diskette lezer
+
+:construction: **Deze sectie is nog in opbouw**
 
 ## Veilige bewaarplaats
 
