@@ -2,7 +2,7 @@
 description: Het materiaal wordt op een veilige manier geraadpleegd
 ---
 
-# Veiligheid
+# Veilig data raadplegen
 
 Het uitlezen van een fysieke digitale drager of digitale bestanden vanaf een online dienst of server is niet zonder risico's. Het nemen van een aantal voorzorgen is belangrijk vooraleer het materiaal een eerste maal wordt ingekeken op het werkstation.
 
@@ -10,11 +10,12 @@ Het uitlezen van een fysieke digitale drager of digitale bestanden vanaf een onl
 
 Onvoorziene schrijfacties op de fysieke drager kunnen voor gegevensverlies zorgen:
 
-* Het aansluiten van een fysieke drager op het werk station kan ervoor zorgen dat er onbedoeld informatie op het niveau van het bestandssysteem verloren gaat: permissies, gebruikersinformatie, create/last modified timestamps,...&#x20;
+* Het aansluiten van een fysieke drager kan het besturingsysteem onbedoeld informatie op het niveau van het bestandssysteem overschrijven: permissies, gebruikersinformatie, create/last modified timestamps,...&#x20;
+* Besturingsystemen schrijven soms automatisch verborgen bestanden weg bij het openen van een folder bv. \`\`\`sdf\`\`\`&#x20;
 * Bij het openen van bestanden in programma's kunnen deze de bestanden zelf overschijven. Bijvoorbeeld, sommige bestandsformaten voorzien het inkapselen van metadata (bv. EXIF, Microsoft Office formaten,...). Bijvoorbeeld, sommige programma's converteren oudere versies van een bestandsindeling naar een nieuwere versie.
 * Door een menselijke fout kunnen bestanden per ongeluk worden verwijderd of overschreven.
 
-Om dit tegen te gaan maken we gebruik van een **write blocker**. Dit is een toestel dat tussen de fysieke drager en het werkstation wordt aangesloten en schrijfoperaties blokkeert.
+Om data verlies te vermijden worden fysiek dragers geraadpleegd in **read only** modus. Afhankelijk van de drager wordt het technisch onmogelijk gemaakt om schrijfacties uit te voeren.
 
 ## Virussen en malware
 
