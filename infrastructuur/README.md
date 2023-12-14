@@ -1,5 +1,5 @@
 ---
-description: Welke middelen gebruiken we om pre-ingest mogelijk te maken?
+description: Welke middelen voorziet de bibliotheek om pre-ingest mogelijk te maken?
 ---
 
 # Infrastructuur
@@ -20,7 +20,7 @@ De software op het werkstation wordt beheerd door de medewerkers van team innova
 
 :construction: **Deze sectie is nog in opbouw**
 
-### Diskette lezer
+### 3.5" 1.44M / 720K floppy lezer
 
 :construction: **Deze sectie is nog in opbouw**
 
