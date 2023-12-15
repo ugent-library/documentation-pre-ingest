@@ -16,8 +16,4 @@ Het manipuleren van fysiek dragers vraagt wat voorzorg.
 
 ## Een USB drager aansluiten
 
-## Een IDE / SCSI drager aansluiten
-
-## Een 3.5" 1.44M / 720K floppy  lezen
-
 ## Een CD / DVD lezen
