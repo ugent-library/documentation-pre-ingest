@@ -44,7 +44,8 @@ Soms is het niet mogelijk om de data via een modern, toegankelijk medium over te
 De bibliotheek maakt in dat geval een analyse en stelt een aanpak voor rekening houdende met deze factoren:
 
 * De ouderdom van de drager (1, 5, 10 jaar)
-* Het type aansluiting (SCSI, SATA, IDE,...)
-* Het bestandssysteem
+* Het type drager (floppy, CD-R, DVD-R, ZIP disk, tape,...)
+* Het type vereiste aansluiting (USB, SCSI, SATA, IDE,...)
+* Het bestandssysteem (NTFS, FAT32, Ext2, HFS,...)
 
 Ofwel zal de bibliotheek zelf de drager proberen uit te lezen, ofwel zal er beroep worden gedaan op **Meemoo** om de drager veilig uit te lezen.
