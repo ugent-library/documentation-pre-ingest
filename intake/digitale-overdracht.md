@@ -1,4 +1,8 @@
-# Analyse digitale dragers
+---
+description: Hoe kunnen archiefvormers digitale archief overdragen aan de bibliotheek?
+---
+
+# Digitale overdracht
 
 Digitale technologie doorheen kende een enorme ontwikkeling waardoor er een zeer diverse waaier aan technische oplossingen bestaat om digitale data op te slaan en te transfereren tussen systemen. Zowel hardware als software verouderen, worden ingehaald door nieuwe, verbeterde oplossingen en geraken uiteindelijk in onbruik.
 
@@ -23,6 +27,10 @@ De digitale data wordt bij voorkeur opgeslagen op drager in **één enkele parti
 ### Online
 
 Het digitale archief wordt bij voorkeur overgedragen aan de bibliotheek in een enkel **ZIP bestand** **zonder compressie (uncompressed)**.
+
+Het ZIP bestand kan via volgende kanalen worden overgedragen:
+
+* Binnen het academische netwerk kan er gebruik worden gemaakt van Belnet FileSender.
 
 ## Analyse van de fysieke dragers
 
