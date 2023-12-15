@@ -4,7 +4,7 @@ description: Hoe kunnen archiefvormers digitale archief overdragen aan de biblio
 
 # Digitale overdracht
 
-Digitale technologie doorheen kende een enorme ontwikkeling waardoor er een zeer diverse waaier aan technische oplossingen bestaat om digitale data op te slaan en te transfereren tussen systemen. Zowel hardware als software verouderen, worden ingehaald door nieuwe, verbeterde oplossingen en geraken uiteindelijk in onbruik.
+httDigitale technologie doorheen kende een enorme ontwikkeling waardoor er een zeer diverse waaier aan technische oplossingen bestaat om digitale data op te slaan en te transfereren tussen systemen. Zowel hardware als software verouderen, worden ingehaald door nieuwe, verbeterde oplossingen en geraken uiteindelijk in onbruik.
 
 Het correct uitlezen van digitale data vanaf verouderde opslagtechnologie vraagt expertise. Daarom voeren we bij intake een identificatie van de drager uit en en beslissen we op basis van analyse wat de geschikte aanpak is.
 
@@ -26,11 +26,12 @@ De digitale data wordt bij voorkeur opgeslagen op drager in **één enkele parti
 
 ### Online
 
-Het digitale archief wordt bij voorkeur overgedragen aan de bibliotheek in een enkel **ZIP bestand** **zonder compressie (uncompressed)**.
+Het digitale archief wordt bij voorkeur overgedragen aan de bibliotheek in een enkel **ZIP bestand** **zonder compressie (uncompressed)**. Bestanden in het archief alsook het ZIP bestanden zijn **niet geëncrypteerd / versleuteld**.
 
 Het ZIP bestand kan via volgende kanalen worden overgedragen:
 
-* Binnen het academische netwerk kan er gebruik worden gemaakt van Belnet FileSender.
+* Binnen het academische netwerk kan er gebruik worden gemaakt van **Belnet Filesender** voor grote bestanden tot 5TB. Kleinere bestanden kunnen worden gedeeld via **Office 365 en Teams**.
+* Niet-academische archiefvormers: **te bepalen**.
 
 ## Analyse van de fysieke dragers
 
