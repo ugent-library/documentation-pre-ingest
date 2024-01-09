@@ -25,3 +25,7 @@
 * [Een SIP samenstellen](een-sip-samenstellen.md)
 * [Documentatie](documentatie.md)
 * [Tools](subpagina.md)
+
+## Hoe doe je dat?
+
+* [Hoe formatteer ik een harde schijf?](hoe-doe-je-dat/hoe-formatteer-ik-een-harde-schijf.md)

@@ -4,7 +4,7 @@ description: Hoe kunnen archiefvormers digitale archief overdragen aan de biblio
 
 # Digitale overdracht
 
-httDigitale technologie doorheen kende een enorme ontwikkeling waardoor er een zeer diverse waaier aan technische oplossingen bestaat om digitale data op te slaan en te transfereren tussen systemen. Zowel hardware als software verouderen, worden ingehaald door nieuwe, verbeterde oplossingen en geraken uiteindelijk in onbruik.
+Digitale technologie doorheen kende een enorme ontwikkeling waardoor er een zeer diverse waaier aan technische oplossingen bestaat om digitale data op te slaan en te transfereren tussen systemen. Zowel hardware als software verouderen, worden ingehaald door nieuwe, verbeterde oplossingen en geraken uiteindelijk in onbruik.
 
 Het correct uitlezen van digitale data vanaf verouderde opslagtechnologie vraagt expertise. Daarom voeren we bij intake een identificatie van de drager uit en en beslissen we op basis van analyse wat de geschikte aanpak is.
 
@@ -19,7 +19,7 @@ Digitaal archief wordt bij voorkeur overgedragen op een **externe harde schijf**
 De digitale data wordt bij voorkeur opgeslagen op drager in **één enkele partitie** geformateerd volgens de **ExFAT** **bestandsindeling.**
 
 {% hint style="info" %}
-Ga naar de pagina hoe formateer ik een harde schijf?
+Ga naar de pagina [hoe-formatteer-ik-een-harde-schijf.md](../hoe-doe-je-dat/hoe-formatteer-ik-een-harde-schijf.md "mention")?
 {% endhint %}
 
 ### Online
