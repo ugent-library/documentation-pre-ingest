@@ -8,7 +8,13 @@ description: Welke middelen voorziet de bibliotheek om pre-ingest mogelijk te ma
 
 ### Werkstation
 
-Er is een **werkstation** voorzien in de ruimte waar het team innovatie werkzaam is. Dit toestel dient **enkel** voor de transfer en het klaarmaken van digitaal materiaal voor digitale archivering.
+Er is een **werkstation** voorzien in de ruimte waar het team innovatie werkzaam is. Dit toestel dient **enkel** voor de transfer en het klaarmaken van digitaal materiaal voor digitale archivering. Het toestel heeft volgende specificaties:
+
+Dell Precision 3430\
+Intel i7-8700 @ 3.2 GHz, 6 cores\
+16 Gb RAM\
+Disk 1: 250 Gb (NTFS, Windows 10 Operating system)\
+Disk 2: 1 Tb (NTFS, free storage)
 
 De software op het werkstation wordt beheerd door de medewerkers van team innovatie.
 
@@ -16,13 +22,11 @@ De software op het werkstation wordt beheerd door de medewerkers van team innova
 
 :construction: **Deze sectie is nog in opbouw**
 
-### CD / DVD lezer
+### CD / DVD station
 
-:construction: **Deze sectie is nog in opbouw**
+Toshiba TS-H653 Internal DVD±RW-DL 20X DVD Writer SATA
 
-### 3.5" 1.44M / 720K floppy lezer
-
-:construction: **Deze sectie is nog in opbouw**
+Dit is een interne DVD/CD lezer die gebruikt wordt voor het uitlezen van optische schijven (CD, CD-R(W), DVD, DVD-R(W),...)
 
 ## Veilige bewaarplaats
 
