@@ -16,13 +16,11 @@ De bibliotheek verkiest pro-actieve aanpak waarbij de archiefvormer zelf het dig
 
 Digitaal archief wordt bij voorkeur overgedragen op een **externe harde schijf** of een **USB stick** met een **USB 3.x aansluiting**.&#x20;
 
-De digitale data wordt bij voorkeur opgeslagen op drager in **één enkele partitie** geformateerd volgens de **ExFAT** **bestandsindeling**
+De digitale data wordt bij voorkeur opgeslagen op drager in **één enkele partitie** geformateerd volgens de **ExFAT** **bestandsindeling.**
 
-#### **Windows**
-
-#### MacOS / OSX
-
-#### Linux
+{% hint style="info" %}
+Ga naar de pagina hoe formateer ik een harde schijf?
+{% endhint %}
 
 ### Online
 
